@@ -1,16 +1,26 @@
-### Hi there 👋
+# weedlitia@github:~$ ./about
+```
+         eeeeeeeeeeeeeeeee
+      eeeeeeeeeeeeeeeeeeeeeee
+    eeeee  eeeeeeeeeeee   eeeee      OS: elementary OS 6.1 Jólnir
+  eeee   eeeee       eee     eeee
+ eeee   eeee          eee     eeee
+eee    eee            eee       eee  Country: Brazil
+eee   eee            eee        eee
+ee    eee           eeee       eeee
+ee    eee         eeeee      eeeeee  Birthday: Nov 1
+ee    eee       eeeee      eeeee ee
+eee   eeee   eeeeee      eeeee  eee
+eee    eeeeeeeeee     eeeeee    eee  Front end: CSS, HTML, JavaScript, jQuery
+ eeeeeeeeeeeeeeeeeeeeeeee    eeeee
+  eeeeeeee eeeeeeeeeeee      eeee
+    eeeee                 eeeee      Back end: Java, JavaScript, PHP, Perl, Python, SQL
+      eeeeeee         eeeeeee
+         eeeeeeeeeeeeeeeee
+```
 
-<!--
-**weedlitia/weedlitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# weedlitia@github:~$ ./links
+<div>
+	<a href="mailto:weedlitia@proton.me" target="_blank"><img src="https://img.shields.io/badge/protonmail-weedlitia?style=for-the-badge&logo=protonmail&color=555555"></a>
+	<a href="https://cracked.io/weedlitia" target="_blank"><img src="https://img.shields.io/badge/cracked.io-weedlitia?style=for-the-badge&color=555555"></a>
+</div>
