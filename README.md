@@ -1,6 +1,6 @@
-# weedlitia@github:~$ ./about
-```
-         eeeeeeeeeeeeeeeee
+<div align="left">
+	<h1>weedlitia@github:~$ ./about</h1>
+	<pre>         eeeeeeeeeeeeeeeee
       eeeeeeeeeeeeeeeeeeeeeee
     eeeee  eeeeeeeeeeee   eeeee      OS: elementary OS 6.1 Jólnir
   eeee   eeeee       eee     eeee
@@ -16,11 +16,11 @@ eee    eeeeeeeeee     eeeeee    eee  Front end: CSS, HTML, JavaScript, jQuery
   eeeeeeee eeeeeeeeeeee      eeee
     eeeee                 eeeee      Back end: Java, JavaScript, PHP, Perl, Python, SQL
       eeeeeee         eeeeeee
-         eeeeeeeeeeeeeeeee
-```
-
-# weedlitia@github:~$ ./links
-<div>
+         eeeeeeeeeeeeeeeee</pre>
+</div>
+<br>
+<div align="left">
+	<h1>weedlitia@github:~$ ./links</h1>
 	<a href="mailto:weedlitia@proton.me" target="_blank"><img src="https://img.shields.io/badge/protonmail-weedlitia?style=for-the-badge&logo=protonmail&color=555555"></a>
 	<a href="https://cracked.io/weedlitia" target="_blank"><img src="https://img.shields.io/badge/cracked.io-weedlitia?style=for-the-badge&color=555555"></a>
 </div>
